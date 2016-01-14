@@ -9,7 +9,7 @@ body {
 
 .promo {
   width: 1030px;
-  margin: 0 auto;
+  margin: 80px auto;
   padding: 0 70px;
 }
 
@@ -32,6 +32,7 @@ body {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  margin-top: 100px;
 }
 
 .feature {
@@ -48,12 +49,12 @@ body {
 }
 
 .feature:last-of-type {
-  background-image: url(../img/feature-2.png);
+  background-image: url(../img/feature-3.png);
 }
-
 
 .feature__title {
   margin-top: 130px;
+  margin-bottom: 30px;
   font-size: 28px;
   font-weight: 400;
 }
