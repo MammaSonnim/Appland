@@ -1,0 +1,30 @@
+body {
+  min-width: 1170px;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  background-color: #98d361;
+}
+
+.promo {
+  width: 1030px;
+  margin: 0 auto;
+  padding: 0 70px;
+}
+
+.title {
+  text-align: center;
+  font-size: 34px;
+  font-weight: 400;
+}
+
+.text {
+  text-align: center;
+}
+
+.feature__title {
+  font-size: 28px;
+  font-weight: 400;
+}
+
