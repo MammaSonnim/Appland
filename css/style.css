@@ -44,21 +44,16 @@ body {
   width: 270px;
   min-height: 300px;
   text-align: center;
-  background-image: url(../img/feature-1.png);
-  background-repeat: no-repeat;
-  background-position: 50% 0;
 }
 
-.feature:nth-of-type(2) {
-  background-image: url(../img/feature-2.png);
-}
-
-.feature:last-of-type {
-  background-image: url(../img/feature-3.png);
+.feature__img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 35px;
 }
 
 .feature__title {
-  margin-top: 130px;
+  margin-top: 20px;
   margin-bottom: 30px;
   font-size: 28px;
   font-weight: 400;
